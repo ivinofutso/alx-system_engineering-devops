@@ -8,3 +8,4 @@ Adds multiple permissions to a file
 gives execution permission to everybody
 gives others only all permissions
 mode setting
+Mode setting script
