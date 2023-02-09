@@ -9,3 +9,4 @@ gives execution permission to everybody
 gives others only all permissions
 mode setting
 Mode setting script
+adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
