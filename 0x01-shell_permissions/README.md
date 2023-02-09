@@ -7,3 +7,4 @@ adds execute permission to the owner of the file hello
 Adds multiple permissions to a file
 gives execution permission to everybody
 gives others only all permissions
+mode setting
