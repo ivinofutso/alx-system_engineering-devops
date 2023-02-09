@@ -4,3 +4,4 @@ prints all the groups the current user is part of
 Change owner of hello to betty
 creates an empty file called hello
 adds execute permission to the owner of the file hello
+Adds multiple permissions to a file
