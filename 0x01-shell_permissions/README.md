@@ -11,3 +11,4 @@ mode setting
 Mode setting script
 adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 More directories made
+A script to change group owner
